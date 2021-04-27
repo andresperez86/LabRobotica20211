@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# encoding: utf-8
+
 from visualization_msgs.msg import Marker
 import numpy as np
 import rospy
