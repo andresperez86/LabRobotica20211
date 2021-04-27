@@ -51,8 +51,8 @@ message_generation
  add_message_files(
    FILES
 
-   Ejer1.msg
-   Ejer2.msg
+   tarea1.msg
+   tarea2.msg
 #   Message1.msg
 #   Message2.msg
  )
